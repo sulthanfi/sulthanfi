@@ -14,10 +14,10 @@ I'm a Computer Science graduate from BINUS, passionate about leveraging data sci
   - Recent projects in **Sentiment Analysis** on TripAdvisor hotel reviews.
 
 - 🔧 **Skills**: 
-  - **Programming**: Python (Pandas, NumPy, Scikit-Learn), SQL
+  - **Programming**: Python (Pandas, NumPy, Scikit-Learn,etc.) and SQL
   - **Machine Learning**: Supervised and unsupervised learning, clustering, and NLP
   - **Data Visualization**: Matplotlib, Seaborn
-  - **Others**: Git, Jupyter Notebook
+  - **Others**: Git and Jupyter Notebook
 
 ## 🌱 What I’m Currently Working On
 
